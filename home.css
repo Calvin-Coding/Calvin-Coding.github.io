@@ -1,0 +1,6 @@
+.heading {
+    padding: 20px;
+    background-color: rgba(111, 173, 184, 0.671);
+    background-image: url("profile-photo.jpg");
+    background-size: cover;
+}
