@@ -17,7 +17,7 @@ a:hover {
 
 .text {
     text-align: center;
-    margin-top: 13%;
+    margin-top: 25%;
     overflow: none;
 }
 
@@ -27,7 +27,3 @@ button {
     padding: 10px;
 }
 
-img {
-    width: 40%;
-    top: 0;
-}
