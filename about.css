@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Raleway', sans-serif;
-    background: url("https://images.unsplash.com/photo-1486728297118-82a07bc48a28?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80") no-repeat center center fixed;
+    background: url("background.jfif") no-repeat center center fixed;
     background-size: cover;
 }
 
@@ -43,7 +43,7 @@ body {
     font-size: 30px;
     text-align: center;
     overflow: none;
-    margin-top: 30%;
+    margin-top: 25%;
     color: black;
 }
 
