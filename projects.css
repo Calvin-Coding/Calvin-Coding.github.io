@@ -60,3 +60,13 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.github {
+    transition-duration: 1.3s;
+}
+
+.github:hover {
+    transform: scale(2.0);
+    -moz-transform: scale(2.0);
+    -webkit-transform: scale(2.0);
+}
