@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Raleway', sans-serif;
-    background: url("bush.JPG") no-repeat center center fixed;
+    background: url("Imgs/capturephoto.png") no-repeat center center fixed;
     background-size: cover;
 }
 
@@ -22,7 +22,7 @@ a:hover {
 }
 
 button {
-    background-color: rgb(190, 131, 216);
+    background-color: rgb(81, 193, 228);
     border: solid 4px rgb(51, 49, 53);
     padding: 10px;
 }
